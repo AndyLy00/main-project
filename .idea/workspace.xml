@@ -1,49 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="afcfbfac-60bc-431e-988a-d231f942006b" name="Changes" comment="TSX project with Outlet">
-      <change afterPath="$PROJECT_DIR$/../bookmarkmanager-node/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bookmarkmanager-node/.idea/bookmarkmanager-node.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bookmarkmanager-node/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bookmarkmanager-node/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bookmarkmanager-node/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bookmarkmanager-node/demo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bookmarkmanager-node/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bookmarkmanager-node/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/MainPage.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/declaration.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/background.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/cats.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dogs.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/parrots.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Layout.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/First.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/First.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Second.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Second.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Third.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Third.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../outlet/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../outlet/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../outlet/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../outlet/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../outlet/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../outlet/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../outlet/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../outlet/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../outlet/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../outlet/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../outlet/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../outlet/public/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../outlet/public/logo512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../outlet/public/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../outlet/public/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../outlet/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../outlet/src/index.js" beforeDir="false" />
-    </list>
+    <list default="true" id="afcfbfac-60bc-431e-988a-d231f942006b" name="Changes" comment="ANTD project v1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -123,7 +81,7 @@
       <workItem from="1672142748058" duration="210000" />
       <workItem from="1672143295033" duration="3845000" />
       <workItem from="1672211646300" duration="365000" />
-      <workItem from="1672213851180" duration="11734000" />
+      <workItem from="1672213851180" duration="11837000" />
     </task>
     <task id="LOCAL-00001" summary="TSX project with Outlet">
       <created>1672142826047</created>
@@ -139,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672142868019</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ANTD project v1">
+      <created>1672225798968</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1672225798968</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -159,6 +124,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="TSX project with Outlet" />
-    <option name="LAST_COMMIT_MESSAGE" value="TSX project with Outlet" />
+    <MESSAGE value="ANTD project v1" />
+    <option name="LAST_COMMIT_MESSAGE" value="ANTD project v1" />
   </component>
 </project>

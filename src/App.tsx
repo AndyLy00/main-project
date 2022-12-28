@@ -1,6 +1,6 @@
 import React from 'react';
 import {Routes, Route} from 'react-router-dom';
-import {Layout} from './components/Layout'
+import MainPage from './components/MainPage'
 import {First} from "./pages/First";
 import {Second} from "./pages/Second";
 import {Third} from "./pages/Third";
@@ -8,10 +8,10 @@ import {Third} from "./pages/Third";
 function App() {
   return (
       <Routes>
-        <Route path="/" element={<Layout/>}>
+        <Route path="/" element={<MainPage/>}>
           <Route index element={<First/>}/>
-          <Route path="second" element={<Second/>}/>
-          <Route path="third" element={<Third/>}/>
+          <Route path="dog" element={<Second/>}/>
+          <Route path="parrot" element={<Third/>}/>
         </Route>
       </Routes>
   );

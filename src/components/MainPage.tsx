@@ -29,7 +29,7 @@ const MainPage: React.FC = () => {
             </Sider>
             <Layout className="site-layout" style={{marginLeft: 200}}>
                 <main> <Outlet /> </main>
-                <Footer style={{textAlign: 'center'}}>AndyLy Project ©2022</Footer>
+                <Footer style={{textAlign: 'center', zIndex: "1"}}>AndyLy Project ©2022</Footer>
             </Layout>
         </Layout>
     );

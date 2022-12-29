@@ -22,6 +22,7 @@
     color: white;
     font-weight: bold;
 }
+
 .active_title {
     word-spacing: 10px;
     margin: 15px 30px 0;
@@ -36,7 +37,7 @@
     font-style: italic;
 }
 
-.page_background1 {
+.page_background {
     background-image: url("./images/background.jpg");
     background-size: cover;
     height: 100vh;
@@ -45,4 +46,15 @@
 .image {
     border-radius: 30px;
     box-shadow: rgba(50, 50, 93, 0.25) 0 50px 100px -20px, rgba(0, 0, 0, 0.3) 0 30px 60px -30px, rgba(10, 37, 64, 0.35) 0 -2px 6px 0 inset;
+}
+
+:where(.css-dev-only-do-not-override-acm2ia).ant-btn-default:not(:disabled):hover {
+    color: #b37feb;
+    border-color: #b37feb;
+}
+
+.button {
+    margin: 20px;
+    background-color: #ffd6e7;
+    border-color: #bfbfbf;
 }

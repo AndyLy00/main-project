@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="afcfbfac-60bc-431e-988a-d231f942006b" name="Changes" comment="ANTD project v1" />
+    <list default="true" id="afcfbfac-60bc-431e-988a-d231f942006b" name="Changes" comment="ANTD project v1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/declaration.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/declaration.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/First.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/First.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Second.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Second.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Third.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Third.tsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,13 +44,13 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/acsir/OneDrive/Документы/GitHub/main-project",
+    "last_opened_file_path": "C:/Users/InternshipPC/Documents/GitHub/main-project",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "nodejs_interpreter_path": "node",
     "nodejs_package_manager_path": "npm",
-    "ts.external.directory.path": "C:\\Users\\acsir\\OneDrive\\Документы\\GitHub\\main-project\\node_modules\\typescript\\lib",
+    "ts.external.directory.path": "C:\\Users\\InternshipPC\\Documents\\GitHub\\main-project\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -51,6 +60,8 @@
       <recent name="C:\Users\acsir\OneDrive\Документы\GitHub\outlet\src\pages" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\InternshipPC\Documents\GitHub\main-project\src" />
+      <recent name="C:\Users\InternshipPC\Documents\GitHub\main-project" />
       <recent name="C:\Users\acsir\OneDrive\Документы\GitHub\main-project\src\components" />
     </key>
   </component>
@@ -82,6 +93,7 @@
       <workItem from="1672143295033" duration="3845000" />
       <workItem from="1672211646300" duration="365000" />
       <workItem from="1672213851180" duration="11837000" />
+      <workItem from="1672295616288" duration="3424000" />
     </task>
     <task id="LOCAL-00001" summary="TSX project with Outlet">
       <created>1672142826047</created>
